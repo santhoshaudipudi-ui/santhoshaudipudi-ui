@@ -62,7 +62,7 @@
 ### ☕ Smart Tea Shop
 Smart tea shop ordering web application built using HTML, CSS and JavaScript.
 
-🔗 Add your project link here.
+🔗 https://smart-tea-shop.onrender.com
 
 ---
 
