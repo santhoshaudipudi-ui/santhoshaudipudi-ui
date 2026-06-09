@@ -24,17 +24,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tensorflow,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshaudipudi-ui&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshaudipudi-ui&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
+--
 
 ## 🔥 GitHub Streak
 
